@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.rock.hxdemo.MainActivity">
+
+<FrameLayout
+    android:id="@+id/contanier"
+    android:layout_weight="1"
+    android:layout_width="match_parent"
+    android:layout_height="0dp">
+
+</FrameLayout>
+
+    <RadioGroup
+        android:background="#f0f0f0"
+        android:id="@+id/rp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <RadioButton
+            android:id="@+id/rb_conver"
+            android:gravity="center_vertical|center_horizontal"
+            android:button="@null"
+            android:text="会话"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <RadioButton
+            android:id="@+id/rb_contack"
+            android:gravity="center_vertical|center_horizontal"
+            android:button="@null"
+            android:text="联系人"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <RadioButton
+            android:id="@+id/rb_person"
+            android:gravity="center_vertical|center_horizontal"
+            android:button="@null"
+            android:text="我的"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+    </RadioGroup>
+</LinearLayout>

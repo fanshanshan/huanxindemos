@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_type_select_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_mm_listitem.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_mm_listitem.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chat_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\recall_message_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\recall_message_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_common_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_recording_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_mm_listitem_grey.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chat_location_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_type_select_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\recall_message_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\recall_message_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_common_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_mm_listitem_grey.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chat_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\820fe5173491d0c016635f5e6d65173c816b9d3e\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_recording_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "E:\\yhTest\\easeui\\src\\main\\res\\drawable\\ease_chat_location_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\hx\\MyApplication\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "E:\\hx\\MyApplication\\easeui\\src\\main\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\yhTest\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Rock\\.android\\build-cache\\5778294f66806b056b0a89395d03a798635c2683\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    }
+]
